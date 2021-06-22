@@ -10,8 +10,7 @@ module.exports = {
 stripePublishableKey:'\_YOUR_OWN_PUBLISHABLE_KEY*',
 stripeSecretKey:'_YOUR_OWN_SECRET_KEY_'
 }
-Installation
-Install the dependencies
+
 
 $ npm install
 
