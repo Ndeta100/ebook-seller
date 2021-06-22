@@ -14,13 +14,14 @@ Installation
 Install the dependencies
 
 $ npm install
+
 Serve
 To serve in the browser
 
 $ npm start
+
+
 App Info
 Author
 Ndeta Innocent
 
-Version
-1.0.0
